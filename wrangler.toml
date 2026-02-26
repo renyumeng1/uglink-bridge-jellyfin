@@ -3,7 +3,7 @@ main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
-BASE_URL = "renyumengsnas.cn33.ug.link/"
+BASE_URL = "https://renyumengsnas.cn33.ug.link/"
 PORT = "8899"
 USERNAME = "renyumeng"
 
